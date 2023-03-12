@@ -1,5 +1,4 @@
 use std::collections::{HashMap, VecDeque};
-use std::collections::vec_deque::VecDeque;
 use std::io;
 
 use crate::buffer::buffer_pool::PageIdIncrementFn;
